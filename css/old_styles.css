@@ -1,0 +1,32 @@
+
+
+/* ============== HEADER ============== */
+
+
+
+.header-container {
+    display: flex;
+}
+
+.main-nav {
+    display: flex;
+    align-items: center;  
+    margin-right: auto;
+}
+
+
+
+.menu {
+    display: flex;
+    gap: 40px;
+}
+
+
+
+
+
+/* ============== FOOTER ============== */
+
+
+
+
